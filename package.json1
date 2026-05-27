@@ -1,0 +1,8 @@
+{
+  "name": "jy_test",
+  "version": "1.0.0",
+  "private": true,
+  "main": "expo-router/entry", // 🌟 核心：強迫 Expo 改用 Expo Router 的入口，而不是傳統的 App.js
+  "homepage": "https://jinyingya.github.io/jy_test",
+  "scripts": { ... }
+}
