@@ -29,7 +29,7 @@
       "expo-router"
     ],
     "router": {
-      "origin": "https://jinying-chen.github.io/jy_test/"
+      "origin": "https://jy_test-app.onrender.com"
     }
   }
 }
